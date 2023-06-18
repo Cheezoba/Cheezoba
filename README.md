@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on developers, makers, builders, creators, and more.
 - 📫 How to reach me: <a href="mailto:chizobaodita@gmail.com" target="_blank">chizobaodita@gmail.com</a>
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I'll smoke you on Call Of Duty 😁
+- ⚡ Fun fact: I'll smoke you in Call Of Duty 😁
