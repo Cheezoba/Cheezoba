@@ -7,9 +7,9 @@ Over the years, I have developed a strong understanding of design principles, de
 I have also worked collaboratively with cross-functional teams, including developers and project managers, to ensure the success of each project.
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on <a target="_blank" href="https://github.com/hackinsync">@hackinsync</a> with <a target="_blank" href="https://github.com/jedstroke">my friend</a>, and open for more opportunities.
+
 - 🌱 I’m currently learning to collaborate more with developers, cross-functional teams, UI/UX, and more.
 - 👯 I’m looking to collaborate with developers, makers, builders, creators, and more.
-- 📫 How to reach me: <a href="mailto:chizobaodita@gmail.com" target="_blank">chizobaodita@gmail.com</a>
+- 📫 How to reach me: <a href="mailto:oditachizoba@gmail.com" target="_blank">oditachizoba@gmail.com</a>
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'll smoke you in Call Of Duty 😁
