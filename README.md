@@ -1,4 +1,3 @@
-<img src="https://raw.githubusercontent.com/Cheezoba/Cheezoba/main/Me%20%F0%9F%98%8D.jpg" style="display: block; margin:auto" />
 
 ### Hi there 👋
 
