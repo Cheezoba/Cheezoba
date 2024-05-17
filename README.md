@@ -7,7 +7,6 @@ I have also worked collaboratively with cross-functional teams, including develo
 Here are some ideas to get you started:
 
 
-- 🌱 I’m currently learning to collaborate more with developers, cross-functional teams, UI/UX, and more.
 - 👯 I’m looking to collaborate with developers, makers, builders, creators, and more.
 - 📫 How to reach me: <a href="mailto:oditachizoba@gmail.com" target="_blank">oditachizoba@gmail.com</a>
 - 😄 Pronouns: She/Her
